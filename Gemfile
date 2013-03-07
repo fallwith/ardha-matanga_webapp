@@ -38,4 +38,6 @@ gem 'jquery-rails'
 # gem 'debugger'
 
 gem 'redis'
-gem 'passenger'
+#gem 'passenger'
+gem 'unicorn'
+
